@@ -4,7 +4,7 @@
 import random
 
 number = random.randint(0, 100)
-  = 0
+tries = 1
 
 guess = int(input("Enter your guess: "))
 
